@@ -2832,7 +2832,6 @@ input[type="button"]:disabled,
   color: #fff;
   font-style: italic;
   margin: 1em 0 0 0;
-  error: failed to push some refs to;
 }
 
 #header > footer {
